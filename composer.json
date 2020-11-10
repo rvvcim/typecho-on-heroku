@@ -1,0 +1,7 @@
+{
+	"require": {
+	"php": "7.*",
+	"ext-gd": "*",
+	"ext-mbstring": "*"
+	}
+}
