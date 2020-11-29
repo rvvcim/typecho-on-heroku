@@ -61,7 +61,7 @@ $db->addServer(array (
   'charset' => 'utf8mb4',
   'port' => '3306',
   'database' => '数据库名称',
-  'engine' => 'MyISAM',
+  'engine' => 'InnoDB',
 ), Typecho_Db::READ | Typecho_Db::WRITE);
 Typecho_Db::set($db);        **/
 
