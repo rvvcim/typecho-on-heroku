@@ -4,4 +4,4 @@
 
 ## 部署
 
-具体流程请查看 [Heroku部署安装Typecho](https://blog.zr.ci/posts/typechoonheroku.html)
+具体流程请查看 [Heroku部署安装Typecho](https://blog.rvvc.im/posts/typechoonheroku.html)
