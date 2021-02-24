@@ -1,6 +1,6 @@
 {
   "name": "Typecho on Heroku",
-  "description": "在 Heroku 上部署基于 PHP + Apache + PostgreSQL/MySQL 环境的 Typecho。",
+  "description": "在 Heroku 上部署基于 PHP + Nginx + PostgreSQL/MySQL 环境的 Typecho。",
   "website": "https://github.com/rvvcim/typecho-on-heroku",
   "repository": "https://github.com/rvvcim/typecho-on-heroku",
   "success_url": "/install.php",
@@ -12,5 +12,5 @@
       "plan": "heroku-postgresql:hobby-dev"
     }
   ],
-  "stack": "heroku-18"
+  "stack": "heroku-20"
 }
