@@ -1,6 +1,6 @@
 ## Typecho on Heroku
 
-在 Heroku 上部署基于 PHP + Apache + PostgreSQL/MySQL 环境的 Typecho。
+在 Heroku 上部署基于 PHP + Ngx + PostgreSQL/MySQL 环境的 Typecho。
 
 ## 部署
 
